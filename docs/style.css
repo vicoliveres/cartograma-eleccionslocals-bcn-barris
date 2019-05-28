@@ -1,0 +1,21 @@
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: left;
+    font-size: 12px;
+    font-family: "Lora", serif;
+    width: 125px;
+    height: 153px;
+    padding: 4px;
+    padding-left: 7px;
+    line-height: normal;
+    color: #383838;
+    background: #DFE1E6;
+    opacity: 0.5;
+    border-radius: 5px;
+    pointer-events: none;
+}
